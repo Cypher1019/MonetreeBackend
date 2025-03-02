@@ -9,7 +9,7 @@ exports.addIncome = async (req, res) => {
         amount,
         category,
         description,
-        date
+        dat
     })
 
     try {
