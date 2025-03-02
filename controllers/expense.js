@@ -8,7 +8,7 @@ exports.addExpense = async (req, res) => {
         title,
         amount,
         category,
-        description
+        description,
         date
     })
 
